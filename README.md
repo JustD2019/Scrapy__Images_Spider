@@ -1,0 +1,2 @@
+# Scrapy__Images_Spider
+通过Scrapy的ImagesPiplines下载图片
